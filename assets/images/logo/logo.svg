@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="46" viewBox="0 0 224 46">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+        font-family: "Brush Script MT";
+        font-style: italic;
+      }
+
+      .cls-2 {
+        fill: #0063f7;
+      }
+    </style>
+  </defs>
+  <text id="SalvaSDR" class="cls-1" x="8.461" y="37.125">Salva<tspan class="cls-2">SDR</tspan></text>
+</svg>

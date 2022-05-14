@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0063f7;
+      }
+
+      .cls-2 {
+        font-size: 25px;
+        fill: #fff;
+        font-family: "Brush Script MT";
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <rect id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" x="1" y="1" width="43" height="43" rx="10" ry="10"/>
+  <text id="SDR" class="cls-2" transform="translate(5.458 27.616) scale(0.667)">SDR</text>
+</svg>
